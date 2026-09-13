@@ -1,7 +1,7 @@
-# HamDMR
-The better version of DroidStar for Windows!
 
 # HamDMR 📡
+
+The better version of DroidStar for Windows!
 
 [![Release](https://img.shields.io/github/v/release/TA1EEI/HamDMR?color=00E5FF&label=Release)](https://github.com/TA1EEI/HamDMR/releases)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20x64-007ACC?logo=windows)](https://github.com/TA1EEI/HamDMR/releases)
